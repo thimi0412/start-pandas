@@ -4,7 +4,7 @@
 ```
 pip install pandas
 ```
-* jupyert
+* jupyter
 ```
 pip install jupyter
 ```
